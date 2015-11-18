@@ -1,5 +1,5 @@
 {
-  "name": "Game-Insight/jParser",
+  "name": "Game-Insight/jsmin-php",
   "description": "Game Insight Center. PHP port of Douglas Crockford's JSMin JavaScript minifier",
   "type": "library",
   "license": "MIT",
